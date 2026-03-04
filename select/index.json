@@ -1,0 +1,104 @@
+{
+  "version": 1,
+  "base_track": "風になる（Acoustic Version)",
+  "base_artist": "つじあやの",
+  "createdAt": "2026-03-04T10:26:53.488558Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "風になる (acoustic version)",
+      "artist": "Tsuji Ayano",
+      "has_synced": true,
+      "path": "select/01_風になる_(acoustic_version)_Tsuji_Ayano.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "風になる (Acoustic Version)",
+      "artist": "つじあやの",
+      "has_synced": true,
+      "path": "select/02_風になる_(Acoustic_Version)_つじあやの.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "風になる(Acoustic Version)",
+      "artist": "Tsuji Ayano",
+      "has_synced": true,
+      "path": "select/03_風になる(Acoustic_Version)_Tsuji_Ayano.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "風になる (Acoustic Version)",
+      "artist": "つじあやの",
+      "has_synced": true,
+      "path": "select/04_風になる_(Acoustic_Version)_つじあやの.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "風になる (Acoustic Version)",
+      "artist": "つじあやの",
+      "has_synced": true,
+      "path": "select/05_風になる_(Acoustic_Version)_つじあやの.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "風になる（Acoustic Version) - Kaze ni Naru(Acoustic Version)",
+      "artist": "Ayano Tsuji",
+      "has_synced": true,
+      "path": "select/06_風になる(Acoustic_Version)_-_Kaze_ni_Naru(Acoustic_Version)_Ayano_Tsuji.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "風になる(Acoustic Version／\"猫の恩返し\"エンディングversion)",
+      "artist": "つじあやの",
+      "has_synced": true,
+      "path": "select/07_風になる(Acoustic_Version_猫の恩返し_エンディングversion)_つじあやの.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "風になる(Acoustic Version)",
+      "artist": "Tsuji Ayano",
+      "has_synced": true,
+      "path": "select/08_風になる(Acoustic_Version)_Tsuji_Ayano.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "風になる（Acoustic Version)",
+      "artist": "Tsuji Ayano",
+      "has_synced": true,
+      "path": "select/09_風になる(Acoustic_Version)_Tsuji_Ayano.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "風になる（Acoustic Version)",
+      "artist": "つじあやの",
+      "has_synced": true,
+      "path": "select/10_風になる(Acoustic_Version)_つじあやの.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "風になる（Acoustic Version)",
+      "artist": "Ayano Tsuji",
+      "has_synced": true,
+      "path": "select/11_風になる(Acoustic_Version)_Ayano_Tsuji.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "風になる(Acoustic Version)",
+      "artist": "つじあやの",
+      "has_synced": false,
+      "path": "select/pl_01_風になる(Acoustic_Version)_つじあやの.txt"
+    }
+  ]
+}
